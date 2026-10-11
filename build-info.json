@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "sourceRepository": "https://github.com/llMLK/Game-war",
-  "sourceCommit": "e8411e39553e33c8c49d6ca01afa33756fb11668",
+  "sourceCommit": "2deaa02de02b1e87321d01651ec725da19930ede",
   "developmentSnapshot": false,
   "storageNamespace": "suyuf-preview:phase-f:",
   "sourceFiles": [
@@ -309,12 +309,12 @@
   "generatedFiles": [
     {
       "path": "index.html",
-      "sha256": "9dfc42f6cdd7a33cc0c27265ae0105653651ac786969f87d219492bacf580b8b",
+      "sha256": "932e697eaa3083f68720a61873c07fe024e8c8718961804cdd6ffe5f72d3a4b3",
       "bytes": 1984
     },
     {
       "path": "game.html",
-      "sha256": "73339dd1b3c7f3bf325ef5b1e39d353b855dc1420a5310a70bb64019b3ab9e33",
+      "sha256": "749c7fad124eedf28c0747cc63b0fe19fb1ab5985fdc13425b59c190594aca79",
       "bytes": 2981
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "path": "preview/bootstrap.js",
-      "sha256": "363db892da5dc91d2a58d2ebd30407e20a3a40a0adde9de15b2cb91c0404cb90",
+      "sha256": "5679974e3866c60d0d9e8883015992cf01729dd578bd9483ad93fe12c5d1561d",
       "bytes": 566
     },
     {

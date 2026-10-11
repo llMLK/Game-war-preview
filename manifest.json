@@ -1,0 +1,21 @@
+{
+  "name": "سيوف الممالك · معاينة F",
+  "short_name": "معاينة F",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./game.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#17120d",
+  "theme_color": "#17120d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "id": "./phase-f-preview",
+  "scope": "./"
+}
